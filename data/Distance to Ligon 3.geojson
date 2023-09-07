@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "Distance to Ligon 3",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.663340290045952, 35.861427667082275 ], [ -78.626569793455701, 35.771630283574019 ] ] ] } }
-]
-}
