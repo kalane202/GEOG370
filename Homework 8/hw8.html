@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homework 7</title>
+</head>
+<body style = "background-color: pink;">
+<h1>Homework 8: Geoprocessing Analysis </h1>
+<h2>Kathleen Lane</h2>
+<h3>
+    Coal ash has been a persistent, harmful pollutant in the state of North Carolina. In 2013, North Carolina's Department
+    of Environmental Quality (NC DEQ) filed a lawsuit against Duke Energy for the improper disposal of coal ash at all 14
+    of their properties. Later, in 2014, a stormwater pipe broke at the Dan River Duke Energy location, spilling 39,000 tons 
+    of coal ash into the Dan River. Coal ash contains pollutants like mercury, selenium, lead, arsenic, and many more heavy
+    metals that are associated with neurological disorders, heart conditions, and various cancers. 
+    <p></p>
+    A common way that coal ash spreads is through groundwater. So, I have decided to display the intersection of NC coal ash 
+    waste sites and the NC drinking water supply watersheds to highlight possible future coal ash contamination sites. In other words,
+    my map answers this question: How many drinking water sources in NC are at risk of coal ash contamination? 
+    <p></p>
+    Methodology: First, I created a 5-mile buffer around the coal ash waste sites because 5 miles is the distance that coal ash can
+    travel through groundwater. Then, I created an intersection beween the 5-mile buffers and the nearby water supplies. I chose to only
+    display the 5-mile coal ash buffers and the at-risk watersheds (the intersection). Then, I chose to also include North Carolina 
+    county names to reference where the at-risk watersheds are geographically.
+</h3>
+<!-- Your map goes here -->
+    <img width = 700px src="./images/coalashmap3.png" alt="Coal Ash Map">
+
+<!-- Link to your shapefile in Github and you CSV -->
+<h2>Data used for this project</h2>
+    <a href="./data/ncstateboundary.shp"> NC State Boundary Data </a>
+    <p></p>
+    <a href="./data/nccountynames.shp"> NC State County Data </a>
+    <p></p>
+    <a href="./data/coalashintersection.shp"> Intersection Data: At-risk Watersheds </a>
+    <p></p>
+    <a href="./data/coalashbuffers.shp"> Buffer Data: 5-mile Buffers </a>
+    <p></p>
+    <a href="https://data-ncdenr.opendata.arcgis.com/datasets/ncdenr::nc-surface-water-supply-watersheds/about"> NC Surface Water Supply Watersheds Geospatial Data</a>
+    <p></p>
+    <a href="https://data-ncdenr.opendata.arcgis.com/datasets/ncdenr::coal-ash-structural-fills-closed/explore?location=35.264235%2C-80.192385%2C6.91"> Coal Ash Structural Fills Geospatial Data</a>
+<h2>Sources of Coal Ash Information</h2>
+    <a href="https://www.deq.nc.gov/news/hot-topics/coal-ash-nc/introduction-coal-ash-nc"> Introduction to Coal Ash in NC </a>
+    <p></p>
+    <a href="https://earthjustice.org/feature/coal-ash-states/north-carolina"> Coal Ash Hazards </a>
+</body>
+</html>
