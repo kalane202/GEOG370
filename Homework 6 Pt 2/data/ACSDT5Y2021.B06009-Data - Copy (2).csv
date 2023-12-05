@@ -1,0 +1,134 @@
+GEO_ID,NAME,Total Population,Less than High School Grads,lessthanhs/totalpop
+51001,"Accomack County, Virginia",24436,4331,177
+51003,"Albemarle County, Virginia",75879,5069,67
+51005,"Alleghany County, Virginia",11228,1201,107
+51007,"Amelia County, Virginia",9591,1395,145
+51009,"Amherst County, Virginia",22673,2798,123
+51011,"Appomattox County, Virginia",11353,1261,111
+51013,"Arlington County, Virginia",173477,8860,51
+51015,"Augusta County, Virginia",56608,5976,106
+51017,"Bath County, Virginia",3334,495,148
+51019,"Bedford County, Virginia",57492,4409,77
+51021,"Bland County, Virginia",4931,547,111
+51023,"Botetourt County, Virginia",24740,1531,62
+51025,"Brunswick County, Virginia",11861,2561,216
+51027,"Buchanan County, Virginia",15564,4090,263
+51029,"Buckingham County, Virginia",12618,2419,192
+51031,"Campbell County, Virginia",40115,4239,106
+51033,"Caroline County, Virginia",21121,2394,113
+51035,"Carroll County, Virginia",21881,4036,184
+51036,"Charles City County, Virginia",5354,916,171
+51037,"Charlotte County, Virginia",8156,1265,155
+51041,"Chesterfield County, Virginia",242701,18029,74
+51043,"Clarke County, Virginia",10755,895,83
+51045,"Craig County, Virginia",3516,400,114
+51047,"Culpeper County, Virginia",35013,3895,111
+51049,"Cumberland County, Virginia",7228,865,120
+51051,"Dickenson County, Virginia",10547,2112,200
+51053,"Dinwiddie County, Virginia",19877,2246,113
+51057,"Essex County, Virginia",7678,1178,153
+51059,"Fairfax County, Virginia",781797,51874,66
+51061,"Fauquier County, Virginia",49983,3579,72
+51063,"Floyd County, Virginia",11622,1139,98
+51065,"Fluvanna County, Virginia",19973,1301,65
+51067,"Franklin County, Virginia",39915,4338,109
+51069,"Frederick County, Virginia",62627,7295,116
+51071,"Giles County, Virginia",12199,1231,101
+51073,"Gloucester County, Virginia",28221,2982,106
+51075,"Goochland County, Virginia",18322,1098,60
+51077,"Grayson County, Virginia",11652,2020,173
+51079,"Greene County, Virginia",14115,1640,116
+51081,"Greensville County, Virginia",8814,2010,228
+51083,"Halifax County, Virginia",24723,4270,173
+51085,"Hanover County, Virginia",75856,4694,62
+51087,"Henrico County, Virginia",231190,16841,73
+51089,"Henry County, Virginia",37437,7162,191
+51091,"Highland County, Virginia",1688,133,79
+51093,"Isle of Wight County, Virginia",27469,2483,90
+51095,"James City County, Virginia",56345,2490,44
+51097,"King and Queen County, Virginia",5240,615,117
+51099,"King George County, Virginia",17651,1361,77
+51101,"King William County, Virginia",12078,896,74
+51103,"Lancaster County, Virginia",8688,877,101
+51105,"Lee County, Virginia",16969,3428,202
+51107,"Loudoun County, Virginia",266804,15832,59
+51109,"Louisa County, Virginia",27131,2940,108
+51111,"Lunenburg County, Virginia",8702,1764,203
+51113,"Madison County, Virginia",10001,1236,124
+51115,"Mathews County, Virginia",6437,474,74
+51117,"Mecklenburg County, Virginia",22521,3048,135
+51119,"Middlesex County, Virginia",8438,1017,121
+51121,"Montgomery County, Virginia",56661,3294,58
+51125,"Nelson County, Virginia",11151,1729,155
+51127,"New Kent County, Virginia",16472,1107,67
+51131,"Northampton County, Virginia",9091,1285,141
+51133,"Northumberland County, Virginia",9307,893,96
+51135,"Nottoway County, Virginia",11278,1879,167
+51137,"Orange County, Virginia",25620,2659,104
+51139,"Page County, Virginia",17368,2949,170
+51141,"Patrick County, Virginia",13575,2280,168
+51143,"Pittsylvania County, Virginia",45116,7194,159
+51145,"Powhatan County, Virginia",22572,1950,86
+51147,"Prince Edward County, Virginia",12562,1798,143
+51149,"Prince George County, Virginia",29158,3287,113
+51153,"Prince William County, Virginia",306248,31771,104
+51155,"Pulaski County, Virginia",25477,2696,106
+51157,"Rappahannock County, Virginia",5617,464,83
+51159,"Richmond County, Virginia",6875,1525,222
+51161,"Roanoke County, Virginia",69624,4521,65
+51163,"Rockbridge County, Virginia",16999,1838,108
+51165,"Rockingham County, Virginia",57112,7881,138
+51167,"Russell County, Virginia",19239,3510,182
+51169,"Scott County, Virginia",16087,2896,180
+51171,"Shenandoah County, Virginia",31549,3474,110
+51173,"Smyth County, Virginia",21943,3476,158
+51175,"Southampton County, Virginia",13389,1941,145
+51177,"Spotsylvania County, Virginia",92722,7807,84
+51179,"Stafford County, Virginia",98973,6724,68
+51181,"Surry County, Virginia",4950,724,146
+51183,"Sussex County, Virginia",8133,1640,202
+51185,"Tazewell County, Virginia",29512,4478,152
+51187,"Warren County, Virginia",28140,3286,117
+51191,"Washington County, Virginia",40117,4858,121
+51193,"Westmoreland County, Virginia",13723,2284,166
+51195,"Wise County, Virginia",26203,5722,218
+51197,"Wythe County, Virginia",20831,2322,111
+51199,"York County, Virginia",47176,2245,48
+51510,"Alexandria city, Virginia",119887,8213,69
+51520,"Bristol city, Virginia",12292,1625,132
+51530,"Buena Vista city, Virginia",4094,825,202
+51540,"Charlottesville city, Virginia",30077,2291,76
+51550,"Chesapeake city, Virginia",166277,10807,65
+51570,"Colonial Heights city, Virginia",12731,1072,84
+51580,"Covington city, Virginia",4076,449,110
+51590,"Danville city, Virginia",29594,4682,158
+51595,"Emporia city, Virginia",3832,972,254
+51600,"Fairfax city, Virginia",16355,1176,72
+51610,"Falls Church city, Virginia",9760,262,27
+51620,"Franklin city, Virginia",5769,937,162
+51630,"Fredericksburg city, Virginia",16896,1511,89
+51640,"Galax city, Virginia",4555,972,213
+51650,"Hampton city, Virginia",91658,6817,74
+51660,"Harrisonburg city, Virginia",26548,4416,166
+51670,"Hopewell city, Virginia",15135,2239,148
+51678,"Lexington city, Virginia",3188,113,35
+51680,"Lynchburg city, Virginia",44230,4500,102
+51683,"Manassas city, Virginia",27684,3920,142
+51685,"Manassas Park city, Virginia",11188,2286,204
+51690,"Martinsville city, Virginia",8909,1040,117
+51700,"Newport News city, Virginia",120142,10139,84
+51710,"Norfolk city, Virginia",149872,16695,111
+51720,"Norton city, Virginia",2666,300,113
+51730,"Petersburg city, Virginia",23015,3486,151
+51735,"Poquoson city, Virginia",8727,386,44
+51740,"Portsmouth city, Virginia",65616,6402,98
+51750,"Radford city, Virginia",7473,581,78
+51760,"Richmond city, Virginia",159960,19617,123
+51770,"Roanoke city, Virginia",69949,8202,117
+51775,"Salem city, Virginia",17155,1165,68
+51790,"Staunton city, Virginia",18231,1522,83
+51800,"Suffolk city, Virginia",63420,5829,92
+51810,"Virginia Beach city, Virginia",314320,17439,55
+51820,"Waynesboro city, Virginia",15543,1918,123
+51830,"Williamsburg city, Virginia",7962,529,66
+51840,"Winchester city, Virginia",18830,2396,127
